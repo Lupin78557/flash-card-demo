@@ -24,7 +24,7 @@ public class Menu {
     public void start(){
         frameP = new RFrame();
         RPanel panelP = new RPanel();
-        RButton btnMaker = new RButton("  >>> Quiz Card Builder",56);
+        RButton btnMaker = new RButton("  >>> Builder Quiz Card",56);
         RButton btnReader = new RButton("Play <",150);
         RButton btnExit = new RButton(">>>>>>>>>>>>>>>>>>>> Exit ",59);
         btnExit.addActionListener(new btnExitListener());
