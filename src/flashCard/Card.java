@@ -10,7 +10,7 @@ package flashCard;
  *
  * @author maus
  */
-public class Card {
+public class Card { // i don't know what to do 
     
     private String question;
     private String answer;
